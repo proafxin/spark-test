@@ -1,0 +1,4 @@
+an apple
+an orange
+a mango
+mango
